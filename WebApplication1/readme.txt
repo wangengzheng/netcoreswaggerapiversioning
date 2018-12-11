@@ -42,3 +42,6 @@ swagger
 		});
 
 
+
+stackoverflow url:https://stackoverflow.com/questions/40929916/how-to-set-up-swashbuckle-vs-microsoft-aspnetcore-mvc-versioning
+
